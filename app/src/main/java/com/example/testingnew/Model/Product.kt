@@ -2,6 +2,8 @@ package com.example.testingnew.Model
 
 import com.google.gson.annotations.SerializedName
 
+//Use data class instead of normal class
+
 class Product {
 
     var id: Int? = null
